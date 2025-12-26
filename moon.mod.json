@@ -1,0 +1,9 @@
+{
+  "name": "SupremeHuaji/MoonElec",
+  "version": "0.1.0",
+  "readme": "README.mbt.md",
+  "repository": "https://github.com/SupremeHuaji/MoonElec.git",
+  "license": "Apache-2.0",
+  "keywords": ["electrical engineering", "circuit analysis", "power systems", "electronics", "engineering tools"],
+  "description": "A comprehensive electrical engineering calculation library for circuit analysis and power systems."
+}
